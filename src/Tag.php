@@ -142,6 +142,7 @@ class Tag
 			'HGROUP' => 'HGroup',
 			'INDEXENTRY' => 'IndexEntry',
 			'INDEXINSERT' => 'IndexInsert',
+			'FIRMAS' => 'Firmas',
 			'NEWCOLUMN' => 'NewColumn',
 			'NEWPAGE' => 'NewPage',
 			'PAGEFOOTER' => 'PageFooter',
